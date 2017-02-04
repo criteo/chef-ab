@@ -1,5 +1,10 @@
 Chef AB
 =======
+
+**Note**: chef-ab has not been used for long time at criteo. It has been replaced since then by [choregraphie](https://github.com/criteo-cookbooks/choregraphie).
+This repo is kept as a _souvenir_.
+
+
 [![Build Status](https://travis-ci.org/criteo/chef-ab.png?branch=master)](https://travis-ci.org/criteo/chef-ab)
 [![Gem Version](https://badge.fury.io/rb/chef-ab.png)](http://badge.fury.io/rb/chef-ab)
 [![Dependency Status](https://gemnasium.com/criteo/chef-ab.png)](https://gemnasium.com/criteo/chef-ab)
